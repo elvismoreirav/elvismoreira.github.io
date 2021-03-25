@@ -10,5 +10,7 @@ En este curso tan genial vemos:
 - El flujo de trabajo en GitHub
 - El verdadero amor por las buenas prácticas
 - Trucos muy locos
+- Hecho con amor
+- Practicando a esta hora y dando lo mejor de mi
 
 Heho con amor
